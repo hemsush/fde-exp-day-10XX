@@ -5,6 +5,7 @@ using OpenAI;
 
 namespace BankingApp.Agent;
 
+
 /// <summary>
 /// Builds the MAF agent. Adapted from the Session 2 scaffold's BankingAgent
 /// Program.cs: OpenAI-SDK-v2 client pointed at the shared Agent Gateway LLM
